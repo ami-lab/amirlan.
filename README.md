@@ -1,5 +1,5 @@
 # amirlan.
 
-#Education
-#Work Experience 
-#Projects
+###Education
+###Work Experience 
+###Projects
